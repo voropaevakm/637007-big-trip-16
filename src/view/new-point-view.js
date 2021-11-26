@@ -1,5 +1,5 @@
 export const createNewPointTemplate = () => (
-    `<ul class="trip-events__list">
+  `<ul class="trip-events__list">
     <li class="trip-events__item">
       <form class="event event--edit" action="#" method="post">
         <header class="event__header">
@@ -162,5 +162,5 @@ export const createNewPointTemplate = () => (
         </section>
       </form>
     </li>
-    </ul>`
+  </ul>`
 );
